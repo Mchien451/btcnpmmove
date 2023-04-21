@@ -25,7 +25,7 @@ This is a web application for a movie theater that allows users to buy tickets, 
 * Dark mode / Light mode
 
 **Fast testing** : https://btcnpmmove.vercel.app/admin <br/> Account Admin  :   kadmin <br/> Password Admin :   123456
-<br/> Account Admin 2  :   duc3636 <br/> Password Admin 2 :   quibi0299
+<br/> 
 
 
 ### Technologies
