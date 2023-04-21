@@ -1,0 +1,4 @@
+export const FETCH_MOVIES_ADMIN = 'FETCH_MOVIES_ADMIN'
+export const GET_MOVIE_DETAIL ='GET_MOVIE_DETAIL';
+export const GET_LIST_USER = 'GET_LIST_USER';
+export const GET_INFO_USER ="GET_INFO_USER"
