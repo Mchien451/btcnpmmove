@@ -13,7 +13,7 @@ This is a web application for a movie theater that allows users to buy tickets, 
 * Language selection (Vietnamese, Chinese, and English)
 * Dark mode / Light mode
 
-**Fast testing** : https://movie-2-llpf.vercel.app/ <br/>Account User   :   giahuy4<br/>Password User  :   123456
+**Fast testing** : https://btcnpmmove.vercel.app/ <br/>Account User   :   demo_12345<br/>Password User  :   123456789
 
 
 ### ADMIN PAGE : 
@@ -24,7 +24,7 @@ This is a web application for a movie theater that allows users to buy tickets, 
 * Booking management (list of all bookings and details)
 * Dark mode / Light mode
 
-**Fast testing** : https://movie-2-llpf.vercel.app/admin <br/> Account Admin  :   4Hoangvua <br/> Password Admin :   123123123
+**Fast testing** : https://btcnpmmove.vercel.app/admin <br/> Account Admin  :   kadmin <br/> Password Admin :   123456
 <br/> Account Admin 2  :   duc3636 <br/> Password Admin 2 :   quibi0299
 
 
